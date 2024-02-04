@@ -2,9 +2,9 @@ Note: Contact me for database issues.
 
 # Online Voting System - MATDAAN
 
-ASP.NET app for managing and conducting online elections in IIITA. This project was made as a DBMS project in the 2nd Semester.
+ASP.NET app for managing and conducting online elections in IIITA.
 
-![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture.PNG)
+
 
 ## Table of contents
 
