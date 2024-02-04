@@ -1,4 +1,4 @@
-Note: Contact me for database issues.
+
 
 # Online Voting System - MATDAAN
 
